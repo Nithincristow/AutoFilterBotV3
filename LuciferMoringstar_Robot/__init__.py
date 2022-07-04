@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
+➥ Creator : [Cristow](
 https://youtube.com/c/NaughtyPROFESSOR)
 
 ➥ Language : Python3
