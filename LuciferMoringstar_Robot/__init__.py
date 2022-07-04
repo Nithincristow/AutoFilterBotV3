@@ -31,7 +31,7 @@ ABOUT = """
 ➥ Name :  Auto Filter V3
     
 ➥ Creator : [Cristow](
-https://youtube.com/c/NaughtyPROFESSOR)
+https://youtube.com/c/NaughtyPROFR)
 
 ➥ Language : Python3
 
